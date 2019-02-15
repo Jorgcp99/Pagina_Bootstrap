@@ -14,14 +14,16 @@
   text-align: center;
 }
 #delimitador{
-  height: 10%;
+  height: 11%;
   padding:5%;
+  padding-right: 0;
 }
 
 }
 #delim{
   padding: 0;
   align-items: center;
+  margin: 0;
 }
 #nombre_profile{
   text-align: center;
@@ -35,14 +37,20 @@
   padding: 8%;
 }
 #prof_skills{
-  padding: 6%;
+  padding: 10%;
   margin-top: 5%;
 
 }
 #hola{
   padding: 5%;
 }
+#hola2{
+  padding: 1%;
+}
 #hola #skill{
+    border: solid white 2px;
+}
+#hola2 #skill{
     border: solid white 2px;
 }
 #hola #skillx1{
@@ -67,5 +75,29 @@
 }
 #hola #skillx6{
   background:-webkit-linear-gradient(left, #3fbac2 47%, #dbedf3 47%);
+
+}
+#hola2 #skillx1{
+  background:-webkit-linear-gradient(left, #3fbac2 90%, #dbedf3 10%);
+
+}
+#hola2 #skillx2{
+  background:-webkit-linear-gradient(left, #3fbac2 80%, #dbedf3 20%);
+
+}
+#hola2 #skillx3{
+  background:-webkit-linear-gradient(left, #3fbac2 75%, #dbedf3 25%);
+
+}
+#hola2 #skillx4{
+  background:-webkit-linear-gradient(left, #3fbac2 70%, #dbedf3 30%);
+
+}
+#hola2 #skillx5{
+  background:-webkit-linear-gradient(left, #3fbac2 80%, #dbedf3 20%);
+
+}
+#hola2 #skillx6{
+  background:-webkit-linear-gradient(left, #3fbac2 85%, #dbedf3 15%);
 
 }
