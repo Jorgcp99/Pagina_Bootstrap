@@ -1,0 +1,51 @@
+.container{
+  background: #384858;
+  color: white;
+  padding: 3%;
+
+}
+#nombre{
+  height: 10%;
+  text-align: center;
+  margin-top: 3%;
+}
+#developer{
+  height: 10%;
+  text-align: center;
+}
+#delimitador{
+  height: 11%;
+  padding:5%;
+}
+
+}
+#delim{
+  padding: 0;
+  align-items: center;
+}
+#nombre_profile{
+  text-align: center;
+  margin-top: 3%;
+}
+#linea{
+  border-bottom:solid white 2px;
+  margin-bottom: 6%;
+}
+#profile{
+  padding: 8%;
+}
+#prof_skills{
+  padding: 10%;
+  margin-top: 5%;
+
+}
+#hola{
+  padding: 5%;
+}
+#hola #skill{
+    border: solid white 2px;
+}
+#hola #skillx{
+  background:-webkit-linear-gradient(left, #3fbac2 90%, #dbedf3 10%);
+
+}
