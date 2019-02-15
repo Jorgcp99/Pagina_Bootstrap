@@ -45,7 +45,27 @@
 #hola #skill{
     border: solid white 2px;
 }
-#hola #skillx{
+#hola #skillx1{
   background:-webkit-linear-gradient(left, #3fbac2 90%, #dbedf3 10%);
+
+}
+#hola #skillx2{
+  background:-webkit-linear-gradient(left, #3fbac2 70%, #dbedf3 30%);
+
+}
+#hola #skillx3{
+  background:-webkit-linear-gradient(left, #3fbac2 70%, #dbedf3 30%);
+
+}
+#hola #skillx4{
+  background:-webkit-linear-gradient(left, #3fbac2 80%, #dbedf3 20%);
+
+}
+#hola #skillx5{
+  background:-webkit-linear-gradient(left, #3fbac2 50%, #dbedf3 50%);
+
+}
+#hola #skillx6{
+  background:-webkit-linear-gradient(left, #3fbac2 47%, #dbedf3 47%);
 
 }
