@@ -101,3 +101,11 @@
   background:-webkit-linear-gradient(left, #3fbac2 85%, #dbedf3 15%);
 
 }
+#crono{
+  border-right:solid white 2px;
+  height: 20%;
+  margin-top: 10%;
+}
+#punto{
+  margin-left:19.5%;
+}
