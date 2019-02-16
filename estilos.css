@@ -39,7 +39,9 @@
 #prof_skills{
   padding: 10%;
   margin-top: 5%;
-
+}
+#img_profile{
+  margin-top: 2%;
 }
 #hola{
   padding: 5%;
@@ -103,9 +105,16 @@
 }
 #crono{
   border-right:solid white 2px;
-  height: 20%;
+  height: 10%;
   margin-top: 10%;
+}
+#crono2{
+  border-right: solid white 2px;
+  height: 10%;
 }
 #punto{
   margin-left:19.5%;
+}
+#educa{
+  align-items: flex-end;
 }
