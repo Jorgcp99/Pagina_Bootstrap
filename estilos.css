@@ -1,7 +1,11 @@
+body{
+
+}
 .container{
   background: #384858;
   color: white;
   padding: 3%;
+  overflow: hidden;
 
 }
 #nombre{
@@ -111,10 +115,13 @@
 #crono2{
   border-right: solid white 2px;
   height: 10%;
+  margin-top: 2%;
 }
 #punto{
   margin-left:19.5%;
+  align-items: center;
+  height: 5%;
 }
-#educa{
-  align-items: flex-end;
+#punto img{
+  align-items: center;
 }
