@@ -128,3 +128,12 @@ body{
 #proy1{
   margin-top: 10%;
 }
+#cont{
+  margin-top: 15%;
+  margin-left: 7%;
+}
+#icono{
+  margin-top: 10%;
+  margin-left: 7%;
+  border: solid green 1px;
+}
