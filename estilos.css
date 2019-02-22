@@ -148,6 +148,6 @@ body{
 }
 #nose h5{
   margin-top: 8%;
-
-
+  text-decoration: none;
+  color:white;
 }
