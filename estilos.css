@@ -131,9 +131,23 @@ body{
 #cont{
   margin-top: 15%;
   margin-left: 7%;
+  border: solid red 2px;
+
 }
 #icono{
   margin-top: 10%;
   margin-left: 7%;
-  border: solid green 1px;
+  border: solid red 2px;
+  height: 13%;
+}
+#nose{
+    height: 13%;
+    margin-top: 10%;
+    text-align: center;
+    border: solid red 2px;
+}
+#nose h5{
+  margin-top: 8%;
+
+
 }
