@@ -17,13 +17,23 @@ body{
   height: 10%;
   text-align: center;
 }
+
+#foto{
+  border-radius: 20%;
+  margin-top: 15%;
+}
 #delimitador{
   height: 11%;
   padding:5%;
   padding-right: 0;
 }
-
+#uno{
+  border: solid yellow 1px;
 }
+#prim{
+  border: solid green 1px;
+}
+
 #delim{
   padding: 0;
   align-items: center;
@@ -32,6 +42,10 @@ body{
 #nombre_profile{
   text-align: center;
   margin-top: 3%;
+}
+#nombre_profile1{
+  text-align: center;
+  margin-top: 5%;
 }
 #linea{
   border-bottom:solid white 2px;
@@ -137,14 +151,12 @@ body{
 #icono{
   margin-top: 10%;
   margin-left: 7%;
-  border: solid red 2px;
   height: 13%;
 }
 #nose{
     height: 13%;
     margin-top: 10%;
     text-align: center;
-    border: solid red 2px;
 }
 #nose h5{
   margin-top: 8%;
