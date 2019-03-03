@@ -50,6 +50,9 @@ body{
 #linea{
   border-bottom:solid white 2px;
 }
+#lineaf{
+  border-bottom:solid white 2px;
+}
 #profile{
   padding: 8%;
 }
@@ -171,8 +174,13 @@ body{
     overflow: hidden;
   }
   #nombre_profile1{
-    #nombre_profile1{
+
       margin-top: 2%;
     }
-  }
+    #punto{
+      margin-left:19%;
+    }
+    #linea1{
+      margin-top: 2%;
+    }
 }
