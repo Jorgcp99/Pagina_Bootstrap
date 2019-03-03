@@ -45,11 +45,10 @@ body{
 }
 #nombre_profile1{
   text-align: center;
-  margin-top: 5%;
+
 }
 #linea{
   border-bottom:solid white 2px;
-  margin-bottom: 6%;
 }
 #profile{
   padding: 8%;
@@ -60,6 +59,7 @@ body{
 }
 #img_profile{
   margin-top: 2%;
+
 }
 #hola{
   padding: 5%;
@@ -132,7 +132,7 @@ body{
   margin-top: 2%;
 }
 #punto{
-  margin-left:19.5%;
+  margin-left:20%;
   align-items: center;
   height: 5%;
 }
@@ -141,6 +141,7 @@ body{
 }
 #proy1{
   margin-top: 10%;
+  text-align: center;
 }
 #cont{
   margin-top: 15%;
@@ -162,4 +163,16 @@ body{
   margin-top: 8%;
   text-decoration: none;
   color:white;
+}
+
+@media only screen and (min-width: 768px) {
+  .container{
+    border: solid red 2px;
+    overflow: hidden;
+  }
+  #nombre_profile1{
+    #nombre_profile1{
+      margin-top: 2%;
+    }
+  }
 }
